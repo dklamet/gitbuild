@@ -1,4 +1,10 @@
+# Overview #
 
+**Very simple** python script to replace complex continuous integration tools
+
+* Clone/checkout commits--that have a tag matching a specified pattern- from a repository, 
+* Run **make**, and rename the directory
+* Rename directory to match tag
 
 ## Prerequisites TBD #
 * devtools, intended for gnu make and gcc/g++
